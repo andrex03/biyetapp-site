@@ -1,2 +1,3 @@
 # biyetapp-site
-Repositorio para los sitios web de la app BiyetApp 
+
+Sitio público de BiyetApp (GitHub Pages): inicio, privacidad y términos.
